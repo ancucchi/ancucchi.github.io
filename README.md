@@ -2,4 +2,4 @@
 web site repository
 
 
-<href="https://ancucchi.github.io/"  target="_blank"> ancucchi.github.io </href>
+https://ancucchi.github.io/
